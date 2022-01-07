@@ -11,6 +11,7 @@ Collection of notes and links for RTG 2022 Backend mentorship.
    - OOP
    - FP
 - APIs (HTTP, OpenAPI, Swagger, REST, RESTful, gRPC)
+- IDE (VS Code, IntelliJ IDEA, Sublime, Atom, Theia etc.)
 - Command-line and scripting tools (POSIX, Bash, Windows PowerShell, Windows CMD/BAT)
 - Databases/datastores 
    - SQL: Oracle, MSSQL, PostreSQL, MariaDB, etc.
@@ -18,5 +19,3 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - Messaging/event/streaming systems (Kafka, NATS, RabbitMQ etc.)
 - Containers (Docker, Podman etc.)
 - Managed services and cloud primitives (IaaS, PaaS, SaaS, Serverless)
-
-
