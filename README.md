@@ -23,6 +23,10 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - Containers (Docker, Podman etc.)
 - Managed services and cloud primitives (IaaS, PaaS, SaaS, Serverless)
 
+### Motivation
+
+- [100 days of code](https://www.100daysofcode.com/)
+
 ### Git 
 
 - Introduction to Git/GitHub - [Git for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
