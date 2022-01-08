@@ -29,6 +29,10 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - [Very good Git tutorial](http://tutorials.jenkov.com/git/index.html)
 - [Description of Git workflows used in professional contexts](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+### Shell
+
+- [Introduction to Linux shell](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - it is valid knowledge that can be applied to local and remote machines running any flavor of Linux or MacOS. On pure Windows shell (CMD or PowerShell) there are similar commands, but also it is possible to get Linux-like terminal with the help of [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) or Git Bash from [Git for Windows](https://git-scm.com/download/win).  
+
 ### Algorithms
 
 - https://projecteuler.net/
