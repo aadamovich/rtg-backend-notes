@@ -22,6 +22,12 @@ Collection of notes and links for RTG 2022 Backend mentorship.
    - NoSQL: MongoDB, Neo4j, InfluxDB, Cassandra, etc.
    - ORM tools and libraries
 - Messaging/event/streaming systems (Kafka, NATS, RabbitMQ etc.)
+- Testing and TDD (test-driven development)
+  - Unit testing
+  - Mocks, stubs, fakes
+  - Acceptance testing
+  - Performance testing 
+- Continuous Integration/Continuous Delivery (CI/CD, Jenkins, GitHub Actions, GitLab CI, Azure Pipelines, CircleCI)
 - Containers (Docker, Podman etc.)
 - Managed services and cloud primitives (IaaS, PaaS, SaaS, Serverless)
 
