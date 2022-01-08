@@ -5,16 +5,16 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 
 ## Backend developer skills/topics
 
-- Version control systems (mainly Git)
+- Version control systems (mainly [Git](https://git-scm.com/))
 - Programming languages (Java, JavaScript/TypeScript, Python, Ruby, Go etc.)
    - type systems
    - data structures (array/list, map/dictionary/hash, queue etc.)
    - OOP (Object-oriented programming) / FP (functional programming)
    - algorithms (complexity)
-- APIs (HTTP, OpenAPI, Swagger, REST, RESTful, gRPC)
-- Authentication/Authorization (BasicAuth, OAuth2, JWT)
-- IDE (VisualStudio Code, IntelliJ IDEA, Sublime, Atom, Theia etc.)
-- Command-line and scripting tools (POSIX, Bash, Windows PowerShell, Windows CMD/BAT)
+- [APIs](https://en.wikipedia.org/wiki/API) ([HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [OpenAPI](https://www.openapis.org/), [Swagger](https://swagger.io/), REST, [RESTful](https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f), [gRPC](https://grpc.io/), [GraphQL](https://graphql.org/))
+- [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) - integrated development environment (VisualStudio Code, IntelliJ IDEA, Sublime, Atom, Theia etc.)
+- Command-line and scripting tools ([POSIX](https://en.wikipedia.org/wiki/POSIX), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/), [Windows CMD/BAT](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands))
+- Authentication/Authorization ([BasicAuth](https://en.wikipedia.org/wiki/Basic_access_authentication), [OAuth2](https://oauth.net/), [JWT](https://jwt.io/))
 - Databases/datastores 
    - SQL: Oracle, MSSQL, PostreSQL, MariaDB, etc.
    - NoSQL: MongoDB, Neo4j, InfluxDB, Cassandra, etc.
