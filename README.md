@@ -11,6 +11,7 @@ Collection of notes and links for RTG 2022 Backend mentorship.
    - data structures (array/list, map/dictionary/hash, queue etc.)
    - OOP (Object-oriented programming) / FP (functional programming)
    - algorithms (complexity)
+   - [Boolean logic](https://computersciencewiki.org/index.php/Boolean_operators)
 - [APIs](https://en.wikipedia.org/wiki/API) ([HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [OpenAPI](https://www.openapis.org/), [Swagger](https://swagger.io/), REST, [RESTful](https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f), [gRPC](https://grpc.io/), [GraphQL](https://graphql.org/))
 - [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) - integrated development environment (VisualStudio Code, IntelliJ IDEA, Sublime, Atom, Theia etc.)
 - Command-line and scripting tools ([POSIX](https://en.wikipedia.org/wiki/POSIX), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/), [Windows CMD/BAT](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands))
