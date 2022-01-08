@@ -39,4 +39,4 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 
 ### Algorithms
 
-- https://projecteuler.net/
+- [The Project Euler](https://projecteuler.net/) - is a collection of tasks that let you dive deeper into various data structures and algorithms. There are tasks of different complexity. To see the tasks you have to register and the site itself does not provide solutions, but the good thing is that there are more than 1 million users registered for the Project Euler and many of them share their solutions on GitHub.
