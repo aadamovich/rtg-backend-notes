@@ -16,6 +16,7 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) - integrated development environment (VisualStudio Code, IntelliJ IDEA, Sublime, Atom, Theia etc.)
 - Command-line and scripting tools ([POSIX](https://en.wikipedia.org/wiki/POSIX), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/), [Windows CMD/BAT](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands))
 - Authentication/Authorization ([BasicAuth](https://en.wikipedia.org/wiki/Basic_access_authentication), [OAuth2](https://oauth.net/), [JWT](https://jwt.io/))
+- Data formats (JSON, YAML, XML, CSV)
 - Databases/datastores 
    - SQL: Oracle, MSSQL, PostreSQL, MariaDB, etc.
    - NoSQL: MongoDB, Neo4j, InfluxDB, Cassandra, etc.
