@@ -45,6 +45,15 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 
 - [Introduction to Linux shell](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - it is valid knowledge that can be applied to local and remote machines running any flavor of Linux or MacOS. On pure Windows shell (CMD or PowerShell) there are similar commands, but also it is possible to get Linux-like terminal with the help of [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) or Git Bash from [Git for Windows](https://git-scm.com/download/win).  
 
+### IDEs
+
+- [Visual Studio Code shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Visual Studio Code shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Visual Studio Code shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+- [IntelliJ IDEA shortcuts for all OSes](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+
 ### Algorithms
 
 - [The Project Euler](https://projecteuler.net/) - is a collection of tasks that let you dive deeper into various data structures and algorithms. There are tasks of different complexity. To see the tasks you have to register and the site itself does not provide solutions, but the good thing is that there are more than 1 million users registered for the Project Euler and many of them share their solutions on GitHub.
+
+
