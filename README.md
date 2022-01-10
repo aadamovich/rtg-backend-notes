@@ -54,6 +54,13 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - [Visual Studio Code shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 - [IntelliJ IDEA shortcuts for all OSes](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
+### Courses
+
+- <https://www.pluralsight.com/>
+- <https://www.udemy.com/>
+- <https://www.coursera.org/>
+- <https://www.edx.org/>
+
 ### Algorithms
 
 - [The Project Euler](https://projecteuler.net/) - is a collection of tasks that let you dive deeper into various data structures and algorithms. There are tasks of different complexity. To see the tasks you have to register and the site itself does not provide solutions, but the good thing is that there are more than 1 million users registered for the Project Euler and many of them share their solutions on GitHub.
