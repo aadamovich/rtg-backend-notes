@@ -15,8 +15,9 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - [APIs](https://en.wikipedia.org/wiki/API) ([HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [OpenAPI](https://www.openapis.org/), [Swagger](https://swagger.io/), REST, [RESTful](https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f), [gRPC](https://grpc.io/), [GraphQL](https://graphql.org/))
 - [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) - integrated development environment (VisualStudio Code, IntelliJ IDEA, Sublime, Atom, Theia etc.)
 - Command-line and scripting tools ([POSIX](https://en.wikipedia.org/wiki/POSIX), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/), [Windows CMD/BAT](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands))
-- Authentication/Authorization ([BasicAuth](https://en.wikipedia.org/wiki/Basic_access_authentication), [OAuth2](https://oauth.net/), [JWT](https://jwt.io/))
+- Authentication/Authorization ([BasicAuth](https://en.wikipedia.org/wiki/Basic_access_authentication), [OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc), [OAuth2](https://oauth.net/), [JWT](https://jwt.io/))
 - Data formats (JSON, YAML, XML, CSV)
+- (Lightweight) documentation formats ([Markdown](https://daringfireball.net/projects/markdown/), [ASCIIDoc](https://asciidoc-py.github.io/index.html), [reStructuredText](https://docutils.sourceforge.io/rst.html), etc.)
 - Databases/datastores 
    - SQL: Oracle, MSSQL, PostreSQL, MariaDB, etc.
    - NoSQL: MongoDB, Neo4j, InfluxDB, Cassandra, etc.
@@ -43,7 +44,8 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 
 ### Shell
 
-- [Introduction to Linux shell](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - it is valid knowledge that can be applied to local and remote machines running any flavor of Linux or MacOS. On pure Windows shell (CMD or PowerShell) there are similar commands, but also it is possible to get Linux-like terminal with the help of [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) or Git Bash from [Git for Windows](https://git-scm.com/download/win).  
+- [Introduction to Linux shell](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) - it is valid knowledge that can be applied to local and remote machines running any flavor of Linux or MacOS. On pure Windows shell (CMD or PowerShell) there are similar commands, but also it is possible to get Linux-like terminal with the help of [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) or Git Bash from [Git for Windows](https://git-scm.com/download/win).
+- [Bash cheatsheet](https://devhints.io/bash)
 
 ### IDEs
 
@@ -55,5 +57,3 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 ### Algorithms
 
 - [The Project Euler](https://projecteuler.net/) - is a collection of tasks that let you dive deeper into various data structures and algorithms. There are tasks of different complexity. To see the tasks you have to register and the site itself does not provide solutions, but the good thing is that there are more than 1 million users registered for the Project Euler and many of them share their solutions on GitHub.
-
-
