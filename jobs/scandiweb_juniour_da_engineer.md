@@ -67,6 +67,8 @@ Yes, we do have semi-automated recruitment processes BUT - each CV is evaluated 
 # Additional information
 
 Mēneša bruto alga: € 600 - 1200
+
 Atrašanās vieta: Rīga, Rīgas rajons, Latvija
+
 Darba veids: Pilna slodze
 

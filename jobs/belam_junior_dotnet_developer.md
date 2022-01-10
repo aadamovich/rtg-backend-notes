@@ -29,12 +29,8 @@ SIA “Belam-Rīga” invites a responsible JUNIOR .NET DEVELOPER to join its te
 
 # Additional information
 
-Mēneša bruto alga
-  € 900 - 1800
-Atrašanās vieta
-Rīga, Rīgas rajons, Latvija
-Garā iela 2, Dreiliņi
-Attālināta darba iespējas
-Darba veids
-Pilna slodze
-Elastīgs darba laiks
+Mēneša bruto alga:  € 900 - 1800
+
+Atrašanās vieta: Rīga, Rīgas rajons, Latvija, Garā iela 2, Dreiliņi
+
+Darba veids: Pilna slodze, Attālināta darba iespējas, Elastīgs darba laiks
