@@ -64,3 +64,11 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 ### Algorithms
 
 - [The Project Euler](https://projecteuler.net/) - is a collection of tasks that let you dive deeper into various data structures and algorithms. There are tasks of different complexity. To see the tasks you have to register and the site itself does not provide solutions, but the good thing is that there are more than 1 million users registered for the Project Euler and many of them share their solutions on GitHub.
+
+### APIs
+
+- [Intro to APIs Part 1: What is an API?](https://www.youtube.com/watch?v=iFMLyMgCUTs)
+- [Intro to APIs Part 2: How to use an API?](https://www.youtube.com/watch?v=jCadnlO9xSQ)
+- [Intro to APIs Part 3: HTTP protocol explained](https://www.youtube.com/watch?v=FAnuh0_BU4c)
+- [HTTP status codes with cat pictures](https://http.cat/)
+- [Google API Explorer](https://developers.google.com/apis-explorer)
