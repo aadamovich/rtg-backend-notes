@@ -1,5 +1,5 @@
 
-Source: https://cv.lv/lv/vacancy/645938/attido-sia/junior-oracle-developer
+Source: <https://cv.lv/lv/vacancy/645938/attido-sia/junior-oracle-developer>
 
 # About company
 
