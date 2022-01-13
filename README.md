@@ -70,5 +70,7 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - [Intro to APIs Part 1: What is an API?](https://www.youtube.com/watch?v=iFMLyMgCUTs)
 - [Intro to APIs Part 2: How to use an API?](https://www.youtube.com/watch?v=jCadnlO9xSQ)
 - [Intro to APIs Part 3: HTTP protocol explained](https://www.youtube.com/watch?v=FAnuh0_BU4c)
+- [What is REST API?](https://www.youtube.com/watch?v=lsMQRaeKNDk)
 - [HTTP status codes with cat pictures](https://http.cat/)
 - [Google API Explorer](https://developers.google.com/apis-explorer)
+
