@@ -73,6 +73,7 @@ Collection of notes and links for RTG 2022 Backend mentorship.
 - [Intro to APIs Part 2: How to use an API?](https://www.youtube.com/watch?v=jCadnlO9xSQ)
 - [Intro to APIs Part 3: HTTP protocol explained](https://www.youtube.com/watch?v=FAnuh0_BU4c)
 - [What is REST API?](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+- [JSON in 10 minutes](https://www.youtube.com/watch?v=iiADhChRriM)
 
 #### Tutorials
 
